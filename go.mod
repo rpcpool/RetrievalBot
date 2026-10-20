@@ -1,6 +1,6 @@
 module github.com/data-preservation-programs/RetrievalBot
 
-go 1.19
+go 1.24
 
 require (
 	github.com/bcicen/jstream v1.0.1
@@ -19,7 +19,7 @@ require (
 	github.com/ipld/go-ipld-prime v0.20.1-0.20230329011551-5056175565b0
 	github.com/jellydator/ttlcache/v3 v3.0.1
 	github.com/joho/godotenv v1.5.1
-	github.com/klauspost/compress v1.16.0
+	github.com/klauspost/compress v1.18.7
 	github.com/libp2p/go-libp2p v0.26.4
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/multiformats/go-multiaddr v0.9.0
